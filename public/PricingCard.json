@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Starter Plan",
+      "price": "$19/month",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 Group class/week",
+        "No personal trainer",
+        "Open hours access only"
+      ],
+      "buttonText": "Join Now"
+    },
+    {
+      "title": "Fit Pro Plan",
+      "price": "$39/month",
+      "mostPopular": true,
+      "features": [
+        "Unlimited gym access",
+        "All group classes included",
+        "2 Personal training sessions/month",
+        "Nutrition guide access",
+        "Priority locker service"
+      ],
+      "buttonText": "Get Fit"
+    },
+    {
+      "title": "Elite Plan",
+      "price": "$69/month",
+      "features": [
+        "24/7 Gym access",
+        "Unlimited group classes",
+        "Weekly personal training",
+        "Custom diet plan",
+        "Free merchandise",
+        "Access to spa and sauna"
+      ],
+      "buttonText": "Go Elite"
+    }
+  ]
+  

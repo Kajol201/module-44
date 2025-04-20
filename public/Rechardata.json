@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "student_name": "Kajol",
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    },
+    {
+      "id": 2,
+      "student_name": "Rafi",
+      "physics": 72,
+      "chemistry": 69,
+      "math": 88
+    },
+    {
+      "id": 3,
+      "student_name": "Nabila",
+      "physics": 90,
+      "chemistry": 82,
+      "math": 95
+    },
+    {
+      "id": 4,
+      "student_name": "Tanvir",
+      "physics": 64,
+      "chemistry": 70,
+      "math": 75
+    },
+    {
+      "id": 5,
+      "student_name": "Meherin",
+      "physics": 88,
+      "chemistry": 85,
+      "math": 91
+    }
+  ]
+  
