@@ -10,8 +10,6 @@ const Recharts = () => {
             .then(data => setData(data));
     }, []);
 
-    // এখন এটা সঠিকভাবে কাজ করবে
-
     return (
         <div>
 

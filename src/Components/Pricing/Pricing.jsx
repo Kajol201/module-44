@@ -4,7 +4,6 @@ import Card from '../Card/Card';
 const Pricing = ({pricingData}) => {
     const priceDatajs= use(pricingData);
 
-
     return (
         <div className='grid grid-cols-3'>
             {
@@ -15,5 +14,4 @@ const Pricing = ({pricingData}) => {
         </div>
     );
 };
-
 export default Pricing;

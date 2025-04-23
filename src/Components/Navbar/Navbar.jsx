@@ -15,7 +15,7 @@ const Navbar = () => {
     const [open,stateOpen] = useState(false);
     const linkss=navLinks.map(link=><Links key={link.id} link={link}></Links>);
     return (
-        <div className='flex justify-between'>
+        <div className='flex justify-between'> 
             <h1 className='hidden md:block'>DaisyUi</h1>
             <span className='flex gap-5 md:hidden' onClick={() => stateOpen(!open)}>
                 { open ? <X></X> : <Menu></Menu> }
